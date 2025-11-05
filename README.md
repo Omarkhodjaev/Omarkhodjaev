@@ -6,7 +6,8 @@
 **Building scalable solutions with modern technologies**
 
 [![Email](https://img.shields.io/badge/Email-js.with.umar%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:js.with.umar@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/umarkhon-khodjaev-2982b2200)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/umarkhon-khodjaev-2982b2200/)
+[![Telegram](https://img.shields.io/badge/Telegram-Contact-blue?style=for-the-badge&logo=telegram)](https://t.me/omarkhodjaev)
 [![GitHub followers](https://img.shields.io/github/followers/Omarkhodjaev?style=for-the-badge&logo=github)](https://github.com/Omarkhodjaev)
 
 </div>
@@ -90,7 +91,8 @@ I'm always interested in:
 **Feel free to reach out for collaborations or just a friendly chat!**
 
 [![Email](https://img.shields.io/badge/📧_Email-js.with.umar%40gmail.com-EA4335?style=for-the-badge)](mailto:js.with.umar@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0077B5?style=for-the-badge)](https://linkedin.com/in/umarkhon-khodjaev-2982b2200)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0077B5?style=for-the-badge)](https://www.linkedin.com/in/umarkhon-khodjaev-2982b2200/)
+[![Telegram](https://img.shields.io/badge/💬_Telegram-Contact-26A5E4?style=for-the-badge)](https://t.me/omarkhodjaev)
 
 </div>
 
