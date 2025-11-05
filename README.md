@@ -16,16 +16,43 @@
 
 ## 👨‍💻 About Me
 
+<table>
+<tr>
+<td width="50%">
+
 ```typescript
 const umar = {
     location: "Tashkent, Uzbekistan 🇺🇿",
-    currentFocus: ["Nest.js Architecture", "System Design", "Cloud Deployments"],
-    workingOn: "Advanced Full Stack Applications",
-    interests: ["Historical Movies 🎬", "Reading Books 📚", "Tech Communities"],
-    collaboration: "Open to open-source and real-world projects",
-    motto: "Clean code is not written by following rules. It's written by caring."
+    role: "Full Stack Developer",
+    currentFocus: [
+        "Nest.js Architecture",
+        "System Design",
+        "Cloud Deployments"
+    ],
+    workingOn: "Advanced Full Stack Apps",
+    collaboration: "Open-source projects"
 };
 ```
+
+</td>
+<td width="50%">
+
+🔭 **Currently Learning**
+- System Design & Architecture
+- Scalable Backend Development
+- Cloud Technologies (AWS)
+
+💡 **Interests**
+- Historical Movies 🎬
+- Reading Books 📚
+- Tech Communities 👥
+
+✨ **Motto**
+> *"Clean code is not written by following rules. It's written by caring."*
+
+</td>
+</tr>
+</table>
 
 ## 🛠️ Tech Arsenal
 
