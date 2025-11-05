@@ -59,12 +59,12 @@ const umar = {
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Omarkhodjaev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Omarkhodjaev&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
+  <img src="https://streak-stats.demolab.com/?user=Omarkhodjaev&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
 </div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omarkhodjaev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="170"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Omarkhodjaev&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" height="170"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Omarkhodjaev&theme=tokyonight" alt="Profile Summary" width="100%"/>
 </div>
 
 ## 🎯 Current Focus
