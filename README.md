@@ -127,7 +127,7 @@ I'm always interested in:
 
 <div align="center">
   
-### ⚡ *"First, solve the problem. Then, write the code."* - John Johnson
+### ⚡ *"First, solve the problem. Then, write the code."*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Omarkhodjaev&color=blueviolet&style=for-the-badge)
 
